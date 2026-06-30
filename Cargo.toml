@@ -2,6 +2,10 @@
 name = "custom-time"
 version = "0.1.0"
 edition = "2024"
+description = " A part of Miyuki X Editor for Time"
+license = "MIT"
+repository = "https://github.com/dongsub-joung/miyuki-custom-time"
+readme = "README.md"
 
 [dependencies]
 chrono = "0.4.45"
